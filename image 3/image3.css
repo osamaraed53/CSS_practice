@@ -1,0 +1,22 @@
+h1 {
+    text-decoration: underline;
+}
+a {
+    color:  rgb(238, 238, 61);
+}
+#one{
+    color : blue
+}
+
+li a {
+    color: red;
+}
+ul ul {
+    color :blue
+}
+ul ul ul {
+    list-style: none;
+}
+mark a {
+    text-decoration-color: red;
+}

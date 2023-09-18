@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite ;
+}
+p {
+    background-color: azure ;
+    margin-right: 5% ;
+    border: 2px solid;
+    overflow: hidden;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+#two_one{
+    border-inline-width: 0px ;
+    border-block: 2px solid ;
+    overflow-y: scroll;
+    height: 50px;
+    width:auto ;
+    background-color: antiquewhite ;
+
+
+}
+
+#main {
+    width: 500px;
+    height: auto;
+
+}
